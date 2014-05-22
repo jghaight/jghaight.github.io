@@ -1,1 +1,6 @@
+client.communicator
+importer
 server.database
+server.facade
+shared.communication
+shared.model
